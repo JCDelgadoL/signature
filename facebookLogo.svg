@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
+  <!-- Rounded Square Base -->
+  <rect width="56" height="56" rx="12" fill="#db6be9"/>
+  
+  <!-- Facebook 'f' Glyph in White -->
+  <path d="M37.5 30.5L39 21.5H30.5V17C30.5 14.6 31.7 13.5 34.5 13.5H39V6.2C38.2 6.1 35.6 5.8 32.6 5.8C26.4 5.8 22.2 9.5 22.2 16.5V21.5H15V30.5H22.2V49H30.5V30.5H37.5Z" fill="white"/>
+</svg>
